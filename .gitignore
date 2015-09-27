@@ -1,0 +1,7 @@
+*.swp
+*~
+Binaries/
+Build/
+Intermediate/
+Saved/
+*.xcodeproj/

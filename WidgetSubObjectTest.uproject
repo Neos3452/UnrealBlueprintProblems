@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.9",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "WidgetSubObjectTest",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+            "AdditionalDependencies": [
+                "CoreUObject",
+				"UMG"
+			]
+		}
+	]
+}
